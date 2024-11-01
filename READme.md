@@ -1,6 +1,4 @@
-# Project Title
-
-![License](https://avatars.githubusercontent.com/u/151150753?v=4)
+# JWT Token Based Authentication | Complete
 
 ## Description
 
