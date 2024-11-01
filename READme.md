@@ -131,9 +131,10 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
+## Contact Me
 
-Your Name - coder.haseeb@gmail.com
+Name - coder.haseeb@gmail.com
+Website - [codehaseeb.online](https://codehaseeb.online/)
 GitHub: [Coder1Haseeb](https://github.com/coder1haseeb)
 
 Feel free to reach out if you have any questions or suggestions!
